@@ -15,6 +15,7 @@ A person earning 10k/month is having
 so here the 50% wants 30% needs and 20% investment rule cant be applied.
 
 _It's obvious that a person with 10k salary may not have a laptop or a personal computer_
+
 Let's have another example 
 
 A person earning 35k /month has his own home.
