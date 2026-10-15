@@ -26,15 +26,25 @@ Now here again the Wants needs and investment rule cant be solved.
 
 so the program is intended to solve the similar problem.
 
+The program (pre)tends to give you an opinion of how much you should allocate into Wants Needs and Investment.
+ 
 
 # Usage
 
 - Run the program
 
+```bash
+python3 wni.py
+```
+
 ## Disclaimer 
 
 - The program is neither a financial advisor nor a substitute for the same..
-- Do what suits you best; the program doesn't advices you to do so ... it just opinions ,  (e.g. take a loan if 36 p.a. to resolve s loan of 14 p.a., or bet your entire property in DOGE coin).
+- Do what suits you best; the program doesn't advices you to do so... it just opinions ,(e.g. take a loan if 36 p.a. to resolve s loan of 14 p.a., or bet your entire property in DOGE coin).
+
 ## Note
 
 - the code is AI generated however, behind the idea there's a human.
+- The program allocates much of the money to investments as your salary increases basically it wants you to 
+-FIRE (Financial Independence, Retire Early) or FISH (Fincancial Independence, Socially Help (others)).
+-
