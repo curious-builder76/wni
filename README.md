@@ -35,3 +35,6 @@ so the program is intended to solve the similar problem.
 
 - The program is neither a financial advisor nor a substitute for the same..
 - Do what suits you best; the program doesn't advices you to do so ... it just opinions ,  (e.g. take a loan if 36 p.a. to resolve s loan of 14 p.a., or bet your entire property in DOGE coin).
+## Note
+
+- the code is AI generated however, behind the idea there's a human.
