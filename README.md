@@ -46,5 +46,5 @@ python3 wni.py
 
 - the code is AI generated however, behind the idea there's a human.
 - The program allocates much of the money to investments as your salary increases basically it wants you to 
--FIRE (Financial Independence, Retire Early) or FISH (Fincancial Independence, Socially Help (others)).
--
+FIRE (Financial Independence, Retire Early) or FISH (Fincancial Independence, Socially Help (others)).
+
